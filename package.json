@@ -1,0 +1,25 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "Learning git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFFQuocHuy/Gitlearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFFQuocHuy/Gitlearn/issues"
+  },
+  "homepage": "https://github.com/CFFQuocHuy/Gitlearn#readme",
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "is-odd": "^3.0.1",
+    "react": "^18.0.0"
+  },
+  "devDependencies": {}
+}
